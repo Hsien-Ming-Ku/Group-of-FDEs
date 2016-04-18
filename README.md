@@ -6,4 +6,6 @@ for time(-space) fractional differential equations (FDEs).
 It concludes
 
 1. Members of our research group
-2. Topics of our research group.
+2. Topics of our research group
+3. Publications of our research group
+4. Academic activities by our research group
